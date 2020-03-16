@@ -1,11 +1,16 @@
 _repo: Canoe-and-camera-a-two-hundred-mile-tour-through-the-Maine-forests_61603
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61603-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Steele, Thomas Sedgwick
     gutenberg_agent_id: '51512'
     url: http://www.gutenberg.org/2009/agents/51512
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61603#Canoe-and-camera-a-two-hundred-mile-tour-through-the-Maine-forests
 gutenberg_issued: '2020-03-12'
 gutenberg_type: Text
 identifiers:
